@@ -7,4 +7,4 @@ You can test-run the example on Google Colaboratory by clicking the following bu
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrtucar/tuberculosis_classification/blob/main/tuberculosisClassification.ipynb)
 
-![Model](model.png)
+![Model](model.bmp)
